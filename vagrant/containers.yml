@@ -1,0 +1,7 @@
+---
+- name: server-01
+  ports: ['80:80', '443:443']
+- name: server-02
+- name: server-03
+- name: agent-01
+- name: agent-02
